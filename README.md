@@ -1,16 +1,71 @@
-## Hi there 👋
+# 👋 Hi, I'm Nouman Ahmad
 
-<!--
-**Numan-Ahmad-Gohar-1/Numan-Ahmad-Gohar-1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **AI & Automation Developer | Python | RAG Systems**
+💡 I build intelligent systems that automate workflows and solve real-world problems using AI
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 About Me
+
+* 🎓 BS Computer Science @ UET Lahore (GPA: 3.51)
+* 🤖 Specialized in AI, Machine Learning & Automation
+* 🔗 Experience with LangChain, Gemini API & RAG pipelines
+* ⚡ Passionate about building scalable, real-world AI solutions
+* 🎯 Currently seeking **internships in AI / ML / Python Development**
+
+---
+
+## ⚙️ Tech Stack
+
+**Languages:**
+`Python` `C++` `JavaScript`
+
+**AI / ML:**
+`LangChain` `Scikit-learn` `ChromaDB` `RAG Pipelines` `Gemini API`
+
+**Automation:**
+`Selenium` `n8n` `Zapier`
+
+**Databases:**
+`MySQL` `MongoDB`
+
+**Tools:**
+`Git` `GitHub` `VS Code`
+
+---
+
+## 🚀 Featured Projects
+
+### 🤖 AI Customer Support Chatbot (RAG)
+
+* Built using **LangChain + Gemini API**
+* Reduced hallucination by **40%**
+* Integrated **ChromaDB** for semantic search
+
+---
+
+### 🩺 Pneumonia Detection System
+
+* ML model with **90%+ accuracy**
+* Image-based classification system
+* Evaluated using Precision, Recall & F1-score
+
+---
+
+### 📝 AI Blog Summarizer
+
+* Reduced reading time by **60%**
+* Supports **Urdu translation**
+* Automated content processing pipeline
+
+---
+
+## 🔥 Current Focus
+
+* AI Automation Systems
+* RAG-based Applications
+* Workflow Automation for Businesses
+
+---
+
+⭐ *“I don’t just build projects — I build solutions that create real impact.”*
