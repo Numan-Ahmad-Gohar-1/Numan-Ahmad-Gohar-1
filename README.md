@@ -1,47 +1,83 @@
 <div align="center">
 
-# Hi there 👋, I'm Numan Ahmad
-
-### AI/ML Developer • RAG & Automation Enthusiast • Python & Full-Stack Developer
-
-<p>
-  <a href="https://github.com/YOUR_GITHUB_USERNAME">
-    <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" />
-  </a>
-</p>
+```bash
+farzam@UET-Lahore:~$ whoami
+```
 
 </div>
 
----
+```
+> Numan Ahmad Gohar (Farzam)
+> BS Computer Science, UET Lahore — Class of 2027 | GPA: 3.51/4.0
+> Role: AI/ML & Python Developer | Full-Stack Web Developer
+> Status: Open to internships & freelance work
+```
 
-## 👨‍💻 About Me
+```bash
+farzam@UET-Lahore:~$ cat currently_building.txt
+```
 
-```python
-class NumanAhmad:
+```
+[1] Capsule Hub      — cross-platform AI conversation capture/transfer extension
+                        (React + Tailwind popup, vanilla JS content scripts, LLM summarization)
+[2] SeenMail         — Gmail read-receipt Chrome extension (Flask backend, tracking pixel)
+[3] Freelance work   — full-stack web dev & AI automation projects
+```
 
-    def __init__(self):
-        self.role = [
-            "AI/ML Developer",
-            "RAG & Automation Enthusiast",
-            "Python Developer",
-            "Full-Stack Developer"
-        ]
+```bash
+farzam@UET-Lahore:~$ ls ./roles
+```
 
-        self.education = "BS Computer Science @ UET Lahore"
+```
+uet-tribune/operations-lead/     uet-newline/co-head/
+```
 
-        self.interests = [
-            "Machine Learning",
-            "Generative AI",
-            "LLMs",
-            "RAG Systems",
-            "AI Automation",
-            "Full-Stack Development"
-        ]
+```bash
+farzam@UET-Lahore:~$ cat certifications.log
+```
 
-    def current_focus(self):
-        return [
-            "Building AI-powered applications",
-            "Developing RAG-based systems",
-            "Learning Agentic AI",
-            "Creating scalable full-stack projects"
-        ]
+```
+[✓] Huawei HCIA-AI
+[✓] Google AI Essentials
+```
+
+```bash
+farzam@UET-Lahore:~$ cat tech_stack.json
+```
+
+```json
+{
+  "languages": ["Python", "JavaScript", "TypeScript"],
+  "frontend": ["React", "Tailwind CSS"],
+  "backend": ["Flask", "PostgreSQL", "MySQL"],
+  "ai_ml": ["LangChain", "RAG", "Gemini API", "ChromaDB", "OpenAI API"],
+  "automation": ["n8n", "Zapier", "Webhooks"]
+}
+```
+
+```bash
+farzam@UET-Lahore:~$ ls ./projects --sort=featured
+```
+
+```
+capsule-hub/                 → AI conversation capture & transfer extension
+seenmail/                    → Gmail read-receipt extension
+ai-customer-support-bot/     → RAG chatbot (LangChain + Gemini + ChromaDB)
+lead-gen-enrichment/         → Python/Flask lead enrichment pipeline
+pneumonia-detection/         → Deep learning medical image classifier
+cartoonify/                  → Streamlit computer vision app
+```
+
+```bash
+farzam@UET-Lahore:~$ cat contact.txt
+```
+
+```
+linkedin  : [LINKEDIN_URL]
+email     : [EMAIL]
+github    : github.com/[GITHUB_USERNAME]
+```
+
+```bash
+farzam@UET-Lahore:~$ _
+```
