@@ -1,0 +1,39 @@
+<svg width="1200" height="300" viewBox="0 0 1200 300" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="300" fill="#0b1220"/>
+
+  <g stroke="#1D9E75" stroke-width="1" opacity="0.55">
+    <line x1="60" y1="60" x2="220" y2="140"/>
+    <line x1="220" y1="140" x2="380" y2="80"/>
+    <line x1="220" y1="140" x2="360" y2="220"/>
+    <line x1="380" y1="80" x2="540" y2="150"/>
+    <line x1="360" y1="220" x2="540" y2="150"/>
+    <line x1="540" y1="150" x2="700" y2="90"/>
+    <line x1="540" y1="150" x2="700" y2="230"/>
+    <line x1="700" y1="90" x2="860" y2="140"/>
+    <line x1="700" y1="230" x2="860" y2="140"/>
+    <line x1="860" y1="140" x2="1020" y2="70"/>
+    <line x1="860" y1="140" x2="1020" y2="200"/>
+    <line x1="1020" y1="70" x2="1150" y2="130"/>
+    <line x1="1020" y1="200" x2="1150" y2="130"/>
+    <line x1="60" y1="60" x2="80" y2="220"/>
+    <line x1="80" y1="220" x2="220" y2="140"/>
+  </g>
+
+  <g fill="#5DCAA5">
+    <circle cx="60" cy="60" r="4"/>
+    <circle cx="80" cy="220" r="4"/>
+    <circle cx="220" cy="140" r="5"/>
+    <circle cx="380" cy="80" r="4"/>
+    <circle cx="360" cy="220" r="4"/>
+    <circle cx="540" cy="150" r="6"/>
+    <circle cx="700" cy="90" r="4"/>
+    <circle cx="700" cy="230" r="4"/>
+    <circle cx="860" cy="140" r="5"/>
+    <circle cx="1020" cy="70" r="4"/>
+    <circle cx="1020" cy="200" r="4"/>
+    <circle cx="1150" cy="130" r="4"/>
+  </g>
+
+  <text x="60" y="160" font-family="Consolas, Menlo, monospace" font-size="42" font-weight="600" fill="#ffffff">Farzam</text>
+  <text x="60" y="195" font-family="Consolas, Menlo, monospace" font-size="17" fill="#9FE1CB">AI/ML Developer · Full-Stack Engineer · UET Lahore</text>
+</svg>
