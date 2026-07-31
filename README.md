@@ -83,15 +83,69 @@ A browser extension designed to improve productivity and organize useful informa
 
 ---
 
-## 📊 GitHub Statistics
+## 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" height="170" />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"
+    alt="Numan's GitHub Stats"
+    height="170"
+  />
+
+<img
+ src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true"
+ alt="Most Used Languages"
+ height="170"
+/>
+
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" />
+  <img
+    src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true"
+    alt="GitHub Streak"
+  />
+</p>
+
+---
+
+## 🚀 Current Focus
+
+```text
+🤖 Building AI-powered applications
+🧠 Exploring RAG systems and Agentic AI
+🐍 Improving Python, APIs, and automation
+🌐 Developing full-stack web applications
+📦 Building and publishing practical projects
+```
+
+---
+
+## 📌 Recent Development Journey
+
+| Period  | Focus                                              |
+| ------- | -------------------------------------------------- |
+| Current | AI/ML projects and practical AI applications       |
+| Recent  | RAG systems, LangChain, LLMs, and vector databases |
+| Recent  | Python automation and API-based workflows          |
+| Recent  | Full-stack development with Next.js and Node.js    |
+| Ongoing | Improving projects, documentation, and deployment  |
+
+---
+
+## 🌱 Currently Learning
+
+* Advanced RAG architectures
+* Agentic AI and AI agents
+* LLM application development
+* AI system design
+* Production-ready full-stack development
+* Deployment and scalable application architecture
+
+---
+
+<p align="center">
+  <i>Building intelligent systems, automating workflows, and turning ideas into useful products. 🚀</i>
 </p>
 
 ---
