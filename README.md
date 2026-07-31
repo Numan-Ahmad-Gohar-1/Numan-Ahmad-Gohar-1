@@ -1,83 +1,129 @@
-<div align="center">
+# Hi 👋, I'm Numan Ahmad
 
-```bash
-farzam@UET-Lahore:~$ whoami
-```
+### AI/ML Developer | RAG & Automation Enthusiast | Python & Full-Stack Developer
 
-</div>
+I’m a Computer Science student passionate about building practical, intelligent, and scalable software solutions. My interests include **Artificial Intelligence, Machine Learning, Retrieval-Augmented Generation (RAG), Python automation, and full-stack web development**.
 
-```
-> Numan Ahmad Gohar (Farzam)
-> BS Computer Science, UET Lahore — Class of 2027 | GPA: 3.51/4.0
-> Role: AI/ML & Python Developer | Full-Stack Web Developer
-> Status: Open to internships & freelance work
-```
+I enjoy turning ideas into real-world applications by combining AI models, APIs, databases, and modern web technologies.
 
-```bash
-farzam@UET-Lahore:~$ cat currently_building.txt
-```
+---
 
-```
-[1] Capsule Hub      — cross-platform AI conversation capture/transfer extension
-                        (React + Tailwind popup, vanilla JS content scripts, LLM summarization)
-[2] SeenMail         — Gmail read-receipt Chrome extension (Flask backend, tracking pixel)
-[3] Freelance work   — full-stack web dev & AI automation projects
-```
+## 🚀 About Me
 
-```bash
-farzam@UET-Lahore:~$ ls ./roles
-```
+* 🎓 BS Computer Science student at **UET Lahore**
+* 🤖 Building AI-powered applications and intelligent automation systems
+* 🧠 Interested in **Machine Learning, Generative AI, LLMs, and RAG**
+* 🐍 Working with **Python** for AI, automation, APIs, and backend development
+* 🌐 Exploring modern **full-stack web development**
+* 📚 Currently improving my skills in **Agentic AI, AI systems, and production-ready applications**
+* 💼 Open to internships, entry-level opportunities, collaborations, and freelance projects
 
-```
-uet-tribune/operations-lead/     uet-newline/co-head/
-```
+---
 
-```bash
-farzam@UET-Lahore:~$ cat certifications.log
-```
+## 🛠️ Tech Stack
 
-```
-[✓] Huawei HCIA-AI
-[✓] Google AI Essentials
-```
+### 🤖 AI, Machine Learning & RAG
 
-```bash
-farzam@UET-Lahore:~$ cat tech_stack.json
-```
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google%20Gemini-4285F4?style=for-the-badge&logo=googlegemini&logoColor=white" />
+  <img src="https://img.shields.io/badge/ChromaDB-5A67D8?style=for-the-badge" />
+</p>
 
-```json
-{
-  "languages": ["Python", "JavaScript", "TypeScript"],
-  "frontend": ["React", "Tailwind CSS"],
-  "backend": ["Flask", "PostgreSQL", "MySQL"],
-  "ai_ml": ["LangChain", "RAG", "Gemini API", "ChromaDB", "OpenAI API"],
-  "automation": ["n8n", "Zapier", "Webhooks"]
-}
-```
+### 🌐 Full-Stack Development
 
-```bash
-farzam@UET-Lahore:~$ ls ./projects --sort=featured
-```
+<p>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+</p>
 
-```
-capsule-hub/                 → AI conversation capture & transfer extension
-seenmail/                    → Gmail read-receipt extension
-ai-customer-support-bot/     → RAG chatbot (LangChain + Gemini + ChromaDB)
-lead-gen-enrichment/         → Python/Flask lead enrichment pipeline
-pneumonia-detection/         → Deep learning medical image classifier
-cartoonify/                  → Streamlit computer vision app
-```
+### 🗄️ Databases & Tools
 
-```bash
-farzam@UET-Lahore:~$ cat contact.txt
-```
+<p>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+</p>
 
-```
-linkedin  : [LINKEDIN_URL]
-email     : [EMAIL]
-github    : github.com/[GITHUB_USERNAME]
-```
+---
 
-```bash
-farzam@UET-Lahore:~$ _
-```
+## 📌 Featured Projects
+
+### 🤖 AI Customer Support Chatbot — RAG
+
+A Retrieval-Augmented Generation chatbot that answers user questions using information from custom documents.
+
+**Tech:** Python, LangChain, Google Gemini, ChromaDB, Streamlit
+
+### 🔍 Automated Lead Generation & Enrichment System
+
+An automation system that collects, processes, and enriches business lead information using web scraping, APIs, and AI tools.
+
+**Tech:** Python, Flask, APIs, Web Scraping
+
+### 🍔 Brotherz Fast-Food E-Commerce Platform
+
+A responsive full-stack web application with a customer-facing ordering experience and an admin dashboard for managing products and orders.
+
+**Tech:** Next.js, Node.js, MongoDB, Tailwind CSS, Zustand
+
+### 🧩 Capsule Hub — Chrome Extension
+
+A browser extension designed to improve productivity and organize useful information efficiently.
+
+**Tech:** JavaScript, Chrome Extension APIs, Vite
+
+---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" height="170" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🌱 Currently Learning
+
+* Agentic AI and AI agents
+* Advanced RAG architectures
+* LLM application development
+* AI system design and deployment
+* Production-ready full-stack applications
+
+---
+
+## 🤝 Let's Connect
+
+<p>
+  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+
+  <a href="https://github.com/YOUR_GITHUB_USERNAME">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+
+  <a href="mailto:YOUR_EMAIL@example.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <i>Building intelligent systems, automating workflows, and turning ideas into useful products. 🚀</i>
+</p>
