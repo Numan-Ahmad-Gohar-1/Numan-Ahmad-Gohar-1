@@ -1,82 +1,105 @@
+<h1 align="center">Hi there, I'm Numan Ahmad Gohar 👋</h1>
+<h3 align="center">AI/ML Engineer & Full Stack Developer</h3>
+
 <p align="center">
-  <img src="./assets/banner.svg" alt="Farzam — AI/ML Developer, Full-Stack Engineer" width="100%" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Building+AI-powered+products;OCR+%7C+LLMs+%7C+RAG+%7C+Automation;Final-Year+CS+Student+%40+UET+Lahore;Turning+ideas+into+shipped+demos" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <a href="[LINKEDIN_URL]"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:[EMAIL]"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
-  <a href="https://github.com/[GITHUB_USERNAME]"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://upwork.com/freelancers/YOUR-UPWORK"><img src="https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white"/></a>
+  <a href="https://fiverr.com/numan_gohar"><img src="https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white"/></a>
+  <a href="mailto:YOUR-EMAIL"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
-<h3 align="center">Turning data into decisions, and ideas into shipped products.</h3>
+---
+
+### 🧑‍💻 About Me
+
+- 🎓 Final-year **BS Computer Science** student at **UET Lahore** (Class of 2027)
+- 🤖 I build **AI-powered tools** — OCR pipelines, RAG chatbots, and LLM-driven automation
+- 🌐 I also ship **full-stack web apps** end-to-end, from backend APIs to polished UIs
+- 🔬 Currently working on my **Final Year Project**: an XAI-driven fraud analytics system
+- 💼 Open to **AI/ML & Full Stack internships**, and freelance projects on Upwork/Fiverr
+- ⚡ Philosophy: **build a working demo first, then pitch it**
 
 ---
 
-### Signal
+### 🛠️ Tech Stack
 
-```
-node: identity        → BS Computer Science, UET Lahore (Class of 2027, GPA 3.51/4.0)
-node: specialization  → AI/ML & Python development, with full-stack as a differentiator
-node: leadership      → Operations Lead @ UET Tribune · Co-Head @ UET Newline
-node: certifications  → Huawei HCIA-AI · Google AI Essentials
-node: status          → Open to AI/ML & Full-Stack internships, freelance projects
-```
+**Languages & Core**
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+</p>
+
+**AI / ML**
+<p>
+  <img src="https://img.shields.io/badge/OpenAI_API-412991?style=flat-square&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Gemini_API-8E75B2?style=flat-square&logo=googlegemini&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ChromaDB-FF6F00?style=flat-square"/>
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tesseract_OCR-4285F4?style=flat-square"/>
+</p>
+
+**Full Stack & Web**
+<p>
+  <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white"/>
+</p>
+
+**Databases & Tools**
+<p>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Chrome_Extensions_(MV3)-4285F4?style=flat-square&logo=googlechrome&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Cloudflare_Tunnel-F38020?style=flat-square&logo=cloudflare&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=white"/>
+</p>
 
 ---
 
-### Network map — what I'm building
+### 🚀 Featured Projects
 
-| Node | Connects to | Description |
+| Project | Description | Stack |
 |---|---|---|
-| **Capsule Hub** | Chrome APIs → LLM APIs | Cross-platform AI conversation capture & transfer extension. React + Tailwind popup, vanilla JS content scripts/service worker, LLM summarization pipeline |
-| **SeenMail** | Gmail → Flask backend | WhatsApp-style read receipts inside Gmail using a tracking-pixel approach |
-| **AI Customer Support Chatbot** | LangChain → ChromaDB → Gemini API | RAG-based chatbot with retrieval-augmented responses |
-| **Automated Lead Gen & Enrichment** | Python → Flask → LLM APIs | Enrichment pipeline for lead data |
-| **Pneumonia Detection System** | CNN → medical imaging data | Deep learning classifier for chest X-rays |
-| **Cartoonify** | OpenCV → Streamlit | Computer vision app that stylizes images |
+| 🧾 **[InvoiceLens](#)** | OCR + AI invoice extraction tool that pulls structured data from receipts/invoices | Flask · React · OpenCV · Tesseract · Gemini/OpenAI |
+| 📬 **[MailTicks (SeenMail)](#)** | Chrome extension for Gmail read-receipts, deployed with Flask backend | Chrome MV3 · Flask · Cloudflare Tunnel |
+| 🗂️ **[Capsule Hub](#)** | Cross-platform Chrome extension to capture & organize AI conversations | React · Tailwind · Manifest V3 · Supabase |
+| 🎯 **[Lead Generation & Enrichment System](#)** | Automated pipeline for scraping and enriching sales leads with LLMs | Python · Flask · LLM Pipeline |
 
 ---
 
-### Weighted edges — tech stack
+### 📜 Certifications
 
-```
-Python        ████████████████████  primary
-JavaScript    ████████████████░░░░  strong
-React         ██████████████░░░░░░  strong
-Flask         ██████████████░░░░░░  strong
-LangChain     ████████████░░░░░░░░  applied
-PostgreSQL    ██████████░░░░░░░░░░  applied
-Tailwind CSS  ████████████████░░░░  strong
-Gemini/OpenAI ██████████████░░░░░░  applied
-```
+<p>
+  <img src="https://img.shields.io/badge/Huawei-HCIA--AI-FF0000?style=flat-square&logo=huawei&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Google-AI_Essentials-4285F4?style=flat-square&logo=google&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Oracle-Agentic_AI_Foundations_(93%25)-F80000?style=flat-square&logo=oracle&logoColor=white"/>
+</p>
 
 ---
 
-### Traversal path — how I got here
-
-```
-[UET Lahore, BS CS] 
-      │
-      ├── coursework in AI/ML, deep learning, databases
-      │
-      ├── projects: Capsule Hub, RAG chatbot, fraud analytics (FYP)
-      │
-      ├── certifications: Huawei HCIA-AI, Google AI Essentials
-      │
-      └── freelance & outreach: cold-pitched full websites,
-          AI automation concepts, portfolio-driven client acquisition
-```
-
----
-
-### Connect
-
-```
-> ping [LINKEDIN_URL]
-> mail [EMAIL]
-> clone https://github.com/[GITHUB_USERNAME]
-```
+### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=[GITHUB_USERNAME]&show_icons=true&theme=dark&hide_border=true&bg_color=0b1220&title_color=5DCAA5&icon_color=9FE1CB&text_color=ffffff" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR-GITHUB-USERNAME&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR-GITHUB-USERNAME&theme=tokyonight&hide_border=true" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-GITHUB-USERNAME&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+</p>
+
+---
+
+<p align="center">
+  <i>💡 Open to AI/ML & Full Stack internships, and freelance projects — let's build something.</i>
 </p>
