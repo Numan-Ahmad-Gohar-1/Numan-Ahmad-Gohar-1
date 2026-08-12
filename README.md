@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Numan Ahmad Gohar 👋</h1>
+<h1 align="center">Hi, I'm Numan Ahmad Gohar</h1>
 <h3 align="center">AI/ML Engineer & Full Stack Developer</h3>
 
 <p align="center">
@@ -90,12 +90,12 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR-GITHUB-USERNAME&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR-GITHUB-USERNAME&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Numan-Ahmad-Gohar-1&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Numan-Ahmad-Gohar-1&theme=tokyonight&hide_border=true" height="165"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-GITHUB-USERNAME&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Numan-Ahmad-Gohar-1&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
 </p>
 
 ---
