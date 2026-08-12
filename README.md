@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Numan Ahmad Gohar</h1>
+<h1 align="center">Hi there, I'm Numan Ahmad Gohar 👋</h1>
 <h3 align="center">AI/ML Engineer & Full Stack Developer</h3>
 
 <p align="center">
@@ -83,6 +83,7 @@
   <img src="https://img.shields.io/badge/Huawei-HCIA--AI-FF0000?style=flat-square&logo=huawei&logoColor=white"/>
   <img src="https://img.shields.io/badge/Google-AI_Essentials-4285F4?style=flat-square&logo=google&logoColor=white"/>
   <img src="https://img.shields.io/badge/Oracle-Agentic_AI_Foundations_(93%25)-F80000?style=flat-square&logo=oracle&logoColor=white"/>
+  <img src="https://img.shields.io/badge/freeCodeCamp-Python-0A0A23?style=flat-square&logo=freecodecamp&logoColor=white"/>
 </p>
 
 ---
@@ -90,12 +91,12 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Numan-Ahmad-Gohar-1&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Numan-Ahmad-Gohar-1&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR-GITHUB-USERNAME&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR-GITHUB-USERNAME&theme=tokyonight&hide_border=true" height="165"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Numan-Ahmad-Gohar-1&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-GITHUB-USERNAME&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
 </p>
 
 ---
